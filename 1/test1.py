@@ -1,4 +1,3 @@
-# following youtube tutorial, 'https://www.youtube.com/watch?v=AY9MnQ4x3zk'
 from sys import exit
 import pygame
 from random import randint
