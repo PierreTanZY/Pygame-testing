@@ -12,4 +12,5 @@ I learned alot in this tutorial such as the basics in pygame, displaying surface
 When writing, debugging, and deciphering my code, there was a stark difference in between the readability between the two files - Despite them both having the same amount of lines, test1.py came off as chaotic and cryptic whereas test2.py read as structured and orderly.
 
 Update,
-Added test3.py, in this iteration I have added music and sound toggle buttons in the end game screen. Fit with a feedback animations and the use of sprite classes and event loops to call the appropiate functions. Made without any help or tutorial! Just the docs.
+Added test3.py, in this iteration I have added music and sound toggle buttons in the end game screen. Fit with feedback animations and the use of sprite classes and event loops to call the appropiate functions. 
+Made without any help or tutorials! Just the docs.
