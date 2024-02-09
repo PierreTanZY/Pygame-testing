@@ -8,7 +8,7 @@ Made two python files:-
 test1.py mainly uses functions whilst test2.py heavily incorporates sprite classes.
 
 Overall, 
-I learned alot in this tutorial such as the basics in pygame, displaying surfaces, utilising the built in sound system, intepreting user input, managing a score system and most importantly, learnt the importance of organised and structured code. 
+I learned alot in this tutorial to create a simple runner game. I learnt:- the basics in pygame, displaying surfaces, utilising the built in sound system, intepreting user input, managing a score system and most importantly, learnt the importance of organised and structured code. 
 When writing, debugging, and deciphering my code, there was a stark difference in between the readability between the two files - Despite them both having the same amount of lines, test1.py came off as chaotic and cryptic whereas test2.py read as structured and orderly.
 
 Update,
