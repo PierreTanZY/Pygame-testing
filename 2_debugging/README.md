@@ -1,4 +1,4 @@
-Following 'Understanding framerate independence and deltatime' youtube tutorial created by ClearCode.
+Following 'Debugging in Pygame' youtube tutorial created by ClearCode.
 'https://www.youtube.com/watch?v=T9vYgZJCmeI'
 
 Imported own assets
